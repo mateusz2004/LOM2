@@ -26,7 +26,8 @@ body {
   }
   
 .baner{
-  padding-left: 640px;
+  margin-left: 640px;
+  width: auto;
    
 }
 
@@ -36,7 +37,6 @@ body {
   height: 50px;
   width: 50px;
   margin: 5px;
-  left: 2500px;
   margin-left: 1870px;
   
 }
@@ -57,18 +57,9 @@ body {
   padding: 20px;
   text-align: center;
 }
+
   
-/*footer{
-  display: flex;
-  height: 40px;
-  width: 100%;
-  background: #9966ff; 
-  padding-top: 750px;
-  margin-top: 0px;
-  position: absolute;
-  right: 20px;
-  top: 20px;
-  }
-  */
+
+
 
   
