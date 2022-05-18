@@ -17,13 +17,11 @@ body {
     margin: 0;
     overflow: hidden;
     background-image: url(JPG/bg.jpg);
-    background-size: cover;
-
-    
-  
-  
-    
+    background-size: cover; 
   }
+a{
+  width: 20px;
+}
   
 .baner{
   margin-left: 640px;
