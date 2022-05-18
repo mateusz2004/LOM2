@@ -1,0 +1,74 @@
+/*
+Strona główna
+*/
+html{
+  
+  background-size: 100%;
+  background-size: cover;
+ 
+  
+ 
+
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-image: url(get_image_large.jpg);
+    background-size: cover;
+
+    
+  
+  
+    
+  }
+  
+.baner{
+  padding-left: 640px;
+   
+}
+
+.Login{
+  border: 0;
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  left: 2500px;
+  margin-left: 1870px;
+  
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+  
+/*footer{
+  display: flex;
+  height: 40px;
+  width: 100%;
+  background: #9966ff; 
+  padding-top: 750px;
+  margin-top: 0px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  }
+  */
+  
+  
